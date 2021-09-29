@@ -1,0 +1,16 @@
+##
+##pre requisitos
+-compouser
+composer require econea/nusoap
+
+
+##link para que consuman nuestra webserviceSOAP
+http://localhost/web-services-soap/InsertCategoria.php?wsdl
+
+##-- en el video 4 nos dice como utilizar SOAP UI
+##-- configurar el archivo Consumir video 7
+
+
+##--- consumimos nuestro web services soap
+## con el link , la cual insertara datos a nuestro base de datos
+http://localhost/web-services-soap/Consumir.php
